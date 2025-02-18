@@ -11,6 +11,6 @@
     </filter>
   </defs>
   
-  <text x="0" y="120" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="#00ccff" filter="url(#neonGlow)">100DevSocial</text>
+  <text x="0" y="120" font-family="Arial, sans-serif" font-size="50" font-weight="bold" fill="#B2A5FF" filter="url(#neonGlow)">100DevSocial</text>
 </svg>
 
